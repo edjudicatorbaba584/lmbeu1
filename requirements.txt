@@ -1,5 +1,5 @@
 aiohttp
-anytree
+anytree=2.8.0
 aria2p
 asgiref
 asyncio
